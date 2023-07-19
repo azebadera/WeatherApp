@@ -8,6 +8,7 @@ const desc = document.querySelector(".desc");
 const sunriseDOM = document.querySelector(".sunrise");
 const sunsetDOM = document.querySelector(".sunset");
 bfgdhfgsa
+hjgahsdhags
 window.addEventListener('load', () => { 
     let long;
     let lat;
