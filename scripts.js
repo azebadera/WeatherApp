@@ -7,7 +7,7 @@ const tempF = document.querySelector(".f");
 const desc = document.querySelector(".desc");
 const sunriseDOM = document.querySelector(".sunrise");
 const sunsetDOM = document.querySelector(".sunset");
-
+bfgdhfgsa
 window.addEventListener('load', () => { 
     let long;
     let lat;
